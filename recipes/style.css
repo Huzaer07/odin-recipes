@@ -1,0 +1,33 @@
+body{
+    padding:30px;
+    margin-bottom:10px;
+    background-color: rgb(85, 160, 70);
+}
+p{
+    font-size:25px ;
+}
+div{
+    text-align: center;
+    font-size:25px;
+}
+ul{
+    font-size: 25px;
+}
+ol{
+    font-size:25px;
+}
+img{
+    padding:100px;
+    margin:auto;     
+    display:block;
+    height:300px;
+    width:300px;
+}
+.Steps{
+ color: red; 
+ font-style: italic;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
